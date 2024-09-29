@@ -31,7 +31,7 @@ Olá! Sou o Gabriel, um apaixonado por tecnologia e inovação. Atualmente, esto
 
 ## 📈 Objetivo
 
-Meu objetivo é consehuir minha primeira oportunidade na área qhe mais amo e a qual escolhi para ser meu guturo
+Meu objetivo é conseguir minha primeira oportunidade na área que mais amo e a qual escolhi para ser meu futuro
 
 ---
 
