@@ -45,6 +45,7 @@ Meu objetivo é conseguir minha primeira oportunidade na área que mais amo e a 
 ## 🌱 Atualmente estudando
 
 Análise e Desenvolvimento de Sistemas
+
 Engenharia de Software
 
 ---
