@@ -31,7 +31,7 @@ Olá! Sou o Gabriel, um apaixonado por tecnologia e inovação. Atualmente, esto
 
 ## 📈 Objetivo
 
-Meu objetivo é contribuir para projetos que façam a diferença, utilizando a tecnologia para resolver problemas do mundo real. Estou em constante evolução, buscando sempre aprender novas habilidades e aprimorar meu conhecimento.
+Meu objetivo é consehuir minha primeira oportunidade na área qhe mais amo e a qual escolhi para ser meu guturo
 
 ---
 
