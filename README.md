@@ -44,9 +44,8 @@ Meu objetivo é consehuir minha primeira oportunidade na área qhe mais amo e a 
 
 ## 🌱 Atualmente estudando
 
-- Arquitetura de Microserviços
-- Integrações em Nuvem com AWS
-- Padrões de Design em Java
+Análise e Desenvolvimento de Sistemas
+Engenharia de Software
 
 ---
 
